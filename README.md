@@ -18,7 +18,7 @@ While this analysis could be performed in Excel, the goal is to determine if the
 
 ## Data Preparation and Analysis
 
-The full analysis performed for this project can be found in [PyPoll_Challenge.py](), a text summary of the primary results in [Analysis](https://github.com/jkenning/Election_analysis/tree/main/Analysis), and additional resources (including original data set) in the [Resources](https://github.com/jkenning/Election_analysis/tree/main/Resources) folder. 
+The full analysis performed for this project can be found in [PyPoll_Challenge.py](https://github.com/jkenning/Election_analysis/blob/main/PyPoll_Challenge.py), a text summary of the primary results in [Analysis](https://github.com/jkenning/Election_analysis/tree/main/Analysis), and additional resources (including original data set) in the [Resources](https://github.com/jkenning/Election_analysis/tree/main/Resources) folder. 
 Software used: Python 3.9.1, Visual Studio Code 1.52.1
 
 Below is a short summary of the activities performed to prepare the data set and perform analysis of the election results:
@@ -115,6 +115,7 @@ Figure. 1 - The initial code analyzing votes for candidates was re-purposed to a
 Figure. 2 - This section of the script was used to write a repitition statement to determine the votes, percentage votes, and county with the largest vote, while printing the results. 
 
 ![Terminal output](https://github.com/jkenning/Election_analysis/tree/main/Resources/printed_results_terminal.png)
+
 Figure. 3 - The script prints the election results to the terminal when run (version also printed to text file can be found [here](https://github.com/jkenning/Election_analysis/blob/main/Analysis/election_results.txt))
 
 ## Election-Audit Summary
